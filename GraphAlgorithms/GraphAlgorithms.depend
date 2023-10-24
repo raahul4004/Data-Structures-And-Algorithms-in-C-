@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1690162867 source:c:\users\raahu\onedrive\documents\college work\c++\graphalgorithms\main.cpp
+	<iostream>
+	"queue.h"
+
+1690162867 c:\users\raahu\onedrive\documents\college work\c++\graphalgorithms\queue.h
+	<iostream>
+
